@@ -1,0 +1,106 @@
+{
+    "training": [
+        {
+            "name": "Technical Analysis Ex",
+            "duration": "40 Day",
+            "fee": 120,
+            "img": "https://i.ibb.co/Nptq0gs/chart-gb000a8cb9-1920.jpg"
+        },
+        {
+            "name": "Fundamental Analysis",
+            "duration": "One Month",
+            "fee": 101,
+            "img": "https://i.ibb.co/hy9K0bF/executium-5hc-V51-Eee-Wc-unsplash.jpg"
+        },
+        {
+            "name": "Money Management",
+            "duration": "7 Day",
+            "fee": 35,
+            "img": "https://i.ibb.co/rbQ4MKK/jeremy-bezanger-9opi-HRPIv-R0-unsplash.jpg"
+        },
+        {
+            "name": "Chart Analysis",
+            "duration": "10 Day",
+            "fee": 51,
+            "img": "https://i.ibb.co/c82Hv3s/joshua-mayo-ob-JBg2l-Zj-Mg-unsplash.jpg"
+        },
+        {
+            "name": "Technical Analysis",
+            "duration": "One Month",
+            "fee": 100,
+            "img": "https://i.ibb.co/ZKPgMkT/maxim-hopman-fi-XLQXAh-Cfk-unsplash.jpg"
+        },
+        {
+            "name": "CandleStick Analysis",
+            "duration": "Nine Day",
+            "fee": 42,
+            "img": "https://i.ibb.co/Ykg2Bct/myriam-jessier-eve-I7-MOc-Smw-unsplash.jpg"
+        },
+        {
+            "name": "Fibo Trading",
+            "duration": "Ten Day",
+            "fee": 52,
+            "img": "https://i.ibb.co/3vJTqNL/national-cancer-institute-BYDj-Si-KUD0-Y-unsplash.jpg"
+        },
+        {
+            "name": "Price Action",
+            "duration": "28 day",
+            "fee": 90,
+            "img": "https://i.ibb.co/z6fD2Wf/pexels-nataliya-vaitkevich-6120174.jpg"
+        },
+        {
+            "name": "News Analysis",
+            "duration": "One Month",
+            "fee": 80,
+            "img": "https://i.ibb.co/KLHgMDm/pexels-nataliya-vaitkevich-6120204.jpg"
+        },
+        {
+            "name": "Interest Rate Analysis",
+            "duration": "20 Day",
+            "fee": 75,
+            "img": "https://i.ibb.co/pd433cS/pexels-pixabay-534216.jpg"
+        },
+        {
+            "name": "GDP Analysis",
+            "duration": "Eight Day",
+            "fee": 65,
+            "img": "https://i.ibb.co/7V7xnsw/pexels-rodnae-productions-8369778.jpg"
+        },
+        {
+            "name": "NFB Analysis",
+            "duration": "One Month",
+            "fee": 55,
+            "img": "https://i.ibb.co/SsVQB3Y/pexels-rodnae-productions-8370335.jpg"
+        },
+        {
+            "name": "Scalping Formula",
+            "duration": "Ten Day",
+            "fee": 46,
+            "img": "https://i.ibb.co/H2Tq568/pexels-tima-miroshnichenko-7567565.jpg"
+        },
+        {
+            "name": "Long Term Trading",
+            "duration": "25 Day",
+            "fee": 45,
+            "img": "https://i.ibb.co/Kmq3g3S/business-gf04957f59-1280.png"
+        },
+        {
+            "name": "Daily Profit Gain",
+            "duration": "One Month",
+            "fee": 50,
+            "img": "https://i.ibb.co/pd433cS/pexels-pixabay-534216.jpg"
+        },
+        {
+            "name": "MACD analysis",
+            "duration": "Fifteen Day",
+            "fee": 30,
+            "img": "https://i.ibb.co/kHzq66k/finance-growth-concept-4-1236222-1920x1600.jpg"
+        },
+        {
+            "name": "Indicator Analysis",
+            "duration": "Seven Day",
+            "fee": 20,
+            "img": "https://i.ibb.co/3rjfBG5/calculator-v3-1463124-640x480.jpg"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+/* This is Services page */
+.service{
+    background-image: url('https://i.ibb.co/8csh6dw/domenico-loia-h-GV2-Tf-Oh0ns-unsplash.jpg');
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 90vw;
+    height: 60vw;
+}

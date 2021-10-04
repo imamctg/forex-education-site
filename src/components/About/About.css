@@ -1,0 +1,10 @@
+/* This is About Us page background image setup */
+.about{
+    background-image: url('https://i.ibb.co/NYYJQtV/pexels-karolina-grabowska-4968665.jpg');
+    margin: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 90vw;
+    height: 95vw;
+}
