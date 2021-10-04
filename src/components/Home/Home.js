@@ -20,7 +20,9 @@ const Home = () => {
     return (
         <div className="row mt-3 mb-3 mx-auto container">
             {
-                datas.slice(0, 4).map(data => <HomeCourse data={data}></HomeCourse>)
+                datas.slice(0, 4).map(data => <HomeCourse
+                    key={data.name}
+                    data={data}></HomeCourse>)
             }
         </div>
     );

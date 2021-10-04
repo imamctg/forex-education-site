@@ -17,7 +17,9 @@ const Education = (props) => {
     return (
         <div className="row mt-3 mb-2 mx-auto container">
             {
-                datas.map(data => <AllCourse data={data}></AllCourse>)
+                datas.map(data => <AllCourse
+                    key={data.name}
+                    data={data}></AllCourse>)
             }
         </div>
 
