@@ -8,8 +8,8 @@ const NavigationBar = () => {
     return (
 
         <Navbar expand="lg" bg="dark" variant="dark">
-            <Container>
-                <Nav className="me-auto mx-auto">
+            <Container >
+                <Nav className="mx-auto">
                     <Navbar.Brand className="fw-bold ">Trading Spot</Navbar.Brand>
                     <Nav.Link> <NavLink className="menu" exact to="/home">Home</NavLink> </Nav.Link>
                     <Nav.Link> <NavLink className="menu" exact to="/about">About</NavLink> </Nav.Link>
