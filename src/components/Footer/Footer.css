@@ -1,10 +1,5 @@
 /* This is Footer style part */
-.footer{
-    height: 250px;
-}
-
 .footer ul li {
     list-style: none;
     text-align-last: left;
-    margin-left: 30px;
 }
